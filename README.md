@@ -10,3 +10,6 @@ These assets may be freely accessed, used and shared to represent affiliation or
 
 ### Small Logo
 [![OpenActive Logo - Small](https://www.openactive.io/assets/openactive-logo-small.png)](https://www.openactive.io/assets/openactive-logo-small.png)
+
+### Print Logo
+[OpenActive Logo - Print](https://www.openactive.io/assets/openactive-print.eps)
