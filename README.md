@@ -4,8 +4,13 @@ These assets may be freely accessed, used and shared to represent affiliation or
 
 ### Badge
 [![OpenActive Badge - Large](https://www.openactive.io/assets/openactive-badge-large.png)](https://www.openactive.io/assets/openactive-badge-large.png)
+HEX #69b9ff
+
 [![OpenActive Badge - Large - white](https://www.openactive.io/assets/openactive-badge-large-white.png)](https://www.openactive.io/assets/openactive-badge-large-white.png)
+HEX #ffffff
+
 [![OpenActive Badge - Large - black](https://www.openactive.io/assets/openactive-badge-large-black.png)](https://www.openactive.io/assets/openactive-badge-large-black.png)
+HEX #000000
 
 ### Large Logo
 [![OpenActive Logo - Large](https://www.openactive.io/assets/openactive-logo-large.png)](https://www.openactive.io/assets/openactive-logo-large.png)
