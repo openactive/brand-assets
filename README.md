@@ -5,6 +5,8 @@ These assets may be freely accessed, used and shared to represent affiliation or
 ### Badge
 [![OpenActive Badge - Large](https://www.openactive.io/assets/openactive-badge-large.png)](https://www.openactive.io/assets/openactive-badge-large.png)
 
+[![OpenActive Badge - Large - white](https://www.openactive.io/assets/openactive-badge-large-white.png)](https://www.openactive.io/assets/openactive-badge-large-white.png)
+
 ### Large Logo
 [![OpenActive Logo - Large](https://www.openactive.io/assets/openactive-logo-large.png)](https://www.openactive.io/assets/openactive-logo-large.png)
 
