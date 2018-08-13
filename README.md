@@ -15,9 +15,6 @@ HEX #000000
 ### Large Logo
 [![OpenActive Logo - Large](https://www.openactive.io/assets/New-OpenActive-Logo-Landscape-Large.png)](https://www.openactive.io/assets/New-OpenActive-Logo-Landscape-Large.png)
 
-### Small Logo
-[![OpenActive Logo - Small](https://www.openactive.io/assets/New-OpenActive-Landscape-Logo-Small.png)](https://www.openactive.io/assets/New-OpenActive-Landscape-Logo-Small.png)
-
 ### Print Logo
 [OpenActive Logo - Print](https://www.openactive.io/assets/openactive-print.eps)
 
