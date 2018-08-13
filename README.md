@@ -3,20 +3,20 @@
 These assets may be freely accessed, used and shared to represent affiliation or support for OpenActive. They are available for live-linking, just use the following:
 
 ### Badge
-[![OpenActive Badge - Large](https://www.openactive.io/assets/openactive-badge-large.png)](https://www.openactive.io/assets/openactive-badge-large.png)
+[![OpenActive Badge - Large](https://www.openactive.io/assets/New-OpenActive-Logo-final.png)](https://www.openactive.io/assets/New-OpenActive-Logo-final.png)
 HEX #69b9ff
 
-[![OpenActive Badge - Large - white](https://www.openactive.io/assets/openactive-badge-large-white.png)](https://www.openactive.io/assets/openactive-badge-large-white.png)
+[![OpenActive Badge - Large - white](https://www.openactive.io/assets/New-OpenActive-Logo-final.png)](https://www.openactive.io/assets/New-OpenActive-Logo-final.png)
 HEX #ffffff
 
-[![OpenActive Badge - Large - black](https://www.openactive.io/assets/openactive-badge-large-black.png)](https://www.openactive.io/assets/openactive-badge-large-black.png)
+[![OpenActive Badge - Large - black](https://www.openactive.io/assets/New-OpenActive-Logo-final.png)](https://www.openactive.io/assets/New-OpenActive-Logo-final.png)
 HEX #000000
 
 ### Large Logo
-[![OpenActive Logo - Large](https://www.openactive.io/assets/openactive-logo-large.png)](https://www.openactive.io/assets/openactive-logo-large.png)
+[![OpenActive Logo - Large](https://www.openactive.io/assets/New-OpenActive-Logo-Landscape-Large.png)](https://www.openactive.io/assets/New-OpenActive-Logo-Landscape-Large.png)
 
 ### Small Logo
-[![OpenActive Logo - Small](https://www.openactive.io/assets/openactive-logo-small.png)](https://www.openactive.io/assets/openactive-logo-small.png)
+[![OpenActive Logo - Small](https://www.openactive.io/assets/New-OpenActive-Landscape-Logo-Small.png)](https://www.openactive.io/assets/New-OpenActive-Landscape-Logo-Small.png)
 
 ### Print Logo
 [OpenActive Logo - Print](https://www.openactive.io/assets/openactive-print.eps)
