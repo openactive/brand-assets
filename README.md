@@ -15,9 +15,11 @@ HEX #000000
 ### Large Logo
 [![OpenActive Logo - Large](https://www.openactive.io/assets/New-OpenActive-Logo-Landscape-Large.png)](https://www.openactive.io/assets/New-OpenActive-Logo-Landscape-Large.png)
 
+### Small Logo
+[![OpenActive Logo - Small](https://www.openactive.io/assets/New-OpenActive-Landscape-Logo-Small-copy.png)](https://www.openactive.io/assets/New-OpenActive-Landscape-Logo-Small-copy.png)
+
 ### Print Logo
 [OpenActive Logo - Print](https://www.openactive.io/assets/openactive-print.eps)
 
 ### Postcard
 [OpenActive Postcard](https://www.openactive.io/assets/openactive-postcard.pdf) - please print on paper that is coated and 3gsm
-
