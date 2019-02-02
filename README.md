@@ -14,6 +14,9 @@ These assets may be freely accessed, used and shared to represent affiliation or
 ### Icon
 [![OpenActive Icon](https://www.openactive.io/assets/openactive-icon-64x64.png)](https://www.openactive.io/assets/openactive-icon-64x64.png)
 
+### favicon.ico
+[![OpenActive Icon](https://www.openactive.io/assets/favicon.ico)](https://www.openactive.io/assets/favicon.ico)
+
 ### Print Logo
 [OpenActive Logo - Print](https://www.openactive.io/assets/openactive-print.eps)
 
