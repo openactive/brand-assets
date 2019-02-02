@@ -11,7 +11,7 @@ These assets may be freely accessed, used and shared to represent affiliation or
 ### Small Logo
 [![OpenActive Logo - Small](https://www.openactive.io/assets/openactive-logo-small.png)](https://www.openactive.io/assets/openactive-logo-small.png)
 
-### Icon
+### Icon 64x64 PNG
 [![OpenActive Icon](https://www.openactive.io/assets/openactive-icon-64x64.png)](https://www.openactive.io/assets/openactive-icon-64x64.png)
 
 ### favicon.ico
