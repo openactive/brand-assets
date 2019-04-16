@@ -23,8 +23,3 @@ These assets may be freely accessed, used and shared to represent affiliation or
 [OpenActive Logo - Print - Portrait](https://www.openactive.io/assets/openactive-logo-print-portrait.zip)
 
 [OpenActive Logo - Print - Stacked](https://www.openactive.io/assets/openactive-logo-print-stacked.zip)
-
-
-### Postcard
-[OpenActive Postcard](https://www.openactive.io/assets/openactive-postcard.pdf) - please print on paper that is coated and 3gsm
-
