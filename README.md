@@ -1,4 +1,4 @@
-# OpenActive Brand Assets
+# OpenActive Brand Assets [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?logo=google-drive&logoColor=white)](https://drive.google.com/drive/folders/1sCBTLY-pLw9g50RgCfh_nHX-bi7IZQMW?usp=sharing)
 
 These assets may be freely accessed, used and shared to represent affiliation or support for OpenActive. They are available for live-linking, just use the following:
 
